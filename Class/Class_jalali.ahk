@@ -1,4 +1,5 @@
-﻿Class jalali {
+﻿;Author: https://github.com/mort65/
+ Class jalali {
     Static InitClass := jalali.ClassInit()
     ; ===================================================================================================================
     ; Constructor / Destructor
